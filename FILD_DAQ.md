@@ -10,7 +10,7 @@ A new computer for the control room is needed:
   - Windows 10/11
   - Good internal memory and RAM
   - PCIe X8 Gen 3 slot
-Install the fibers from the MEM to the control room
+  - Install the fibers from the MEM to the control room
 
 ## FILD2 (FHA)
   - Camera: PCO pixelfly

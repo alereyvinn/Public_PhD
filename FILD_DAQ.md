@@ -6,10 +6,10 @@
   - Stored in ~/shares/experiments/aug-rawfiles/FIT
 ### Planned updates
 We bought a new camera (XIMEA CB019MG-LX-X8G3), fibers and PCIe, only thing missing is the computer. W10 or W11 is preferred, for user-friendly interface.
-A new computer for the control room is needed:
-  - Windows 10/11
-  - Good internal memory and RAM
-  - PCIe X8 Gen 3 slot
+Computer requirements:
+	- Windows 10/11
+	- Good internal memory and RAM
+	- PCIe X8 Gen 3 slot
     
 ## FILD2 (FHA)
   - Camera: PCO pixelfly

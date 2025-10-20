@@ -3,19 +3,23 @@
 ## FILD1 (FHC)
   - Camera: Phantom
   - Camera computer: operated with fast camera network
-  - Stored in ~/shares/experiments/aug-rawfiles/FIT
+  - Videos stored in ~/shares/experiments/aug-rawfiles/FIT
+  - Fast channels: shotfile in ~/shares/experiments/aug-shotfiles/FHC
+
 ### Planned updates
 We bought a new camera (XIMEA CB019MG-LX-X8G3), fibers and PCIe, only thing missing is the computer. W10 or W11 is preferred, for user-friendly interface.
 Computer requirements:
-   - Windows 10/11
-   - Good internal memory and RAM
-   - PCIe X8 Gen 3 slot
-    
+  - Windows 10/11
+  - Good internal memory and RAM
+  - PCIe X8 Gen 3 slot
+  - Operation in remote desktop
+Data to be stored in ~/shares/experiments/aug-rawfiles/FIL/FILD1
+
 ## FILD2 (FHA)
   - Camera: PCO pixelfly
   - Camera computer: wxfildxp
-  - Stored in ~/shares/experiments/aug-rawfiles/FIL/FILD2
-  - Fast channels: PMT, currently does not work
+  - Videos stored in ~/shares/experiments/aug-rawfiles/FIL/FILD2 (can't do it because computer is not connected tot he shares). Alternatively stored in my personal shares.
+  - Fast channels: shotfile in ~/shares/experiments/aug-shotfiles/FHC (not working currently)
 ### Planned updates
   - Update camera computer
   - Identify problem with PMT, and presumably change system to standard AUG
@@ -26,7 +30,7 @@ Decomissioned
 ## FILD4 (FHD)
   - Camera: PCO pixelfly
   - Camera computer: wxfildxp
-  - Stored in ~/shares/experiments/aug-rawfiles/FIL/FILD4
+  - Videos stored in ~/shares/experiments/aug-rawfiles/FIL/FILD4 (can't do it because computer is not connected tot he shares). Alternatively stored in my personal shares.
   - Fast channels: APD camera
 ### Planned updates
   - Update camera computer
@@ -34,7 +38,7 @@ Decomissioned
 ## FILD5 (FHE)
   - Camera: PCO pixelfly
   - Camera computer: wxfildxp
-  - Stored in ~/shares/experiments/aug-rawfiles/FIL/FILD5
+  - Videos stored in ~/shares/experiments/aug-rawfiles/FIL/FILD5 (can't do it because computer is not connected tot he shares). Alternatively stored in my personal shares.
   - Fast channels: APD camera, decomissioned
 ### Planned updates
   - Update camera computer
